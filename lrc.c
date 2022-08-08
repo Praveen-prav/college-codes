@@ -9,8 +9,6 @@
 
 #define SIZE 1000
 
-void LRC();
-
 int data[SIZE], data_size, lrc[SIZE], lrc_size, temp[SIZE], temp_size, parity[SIZE];
 int i, j;
 
